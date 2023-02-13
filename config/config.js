@@ -4,7 +4,7 @@ import {faAppStore, faDocker, faGithub, faGooglePlay} from '@fortawesome/free-br
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-	name: "cloud",
+	name: "Cloud",
 	links: [
 		{
 			title: "About",
