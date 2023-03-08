@@ -98,7 +98,7 @@ export const contact = {
 		},
 		{
 			title: "Post Topic",
-			link: "https://flarum.yunkuangao.com",
+			link: "https://forum.yunkuangao.com",
 			isPrimary: false,
 		},
 	]
