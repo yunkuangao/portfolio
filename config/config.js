@@ -4,7 +4,7 @@ import {faAppStore, faDocker, faGithub, faGooglePlay} from '@fortawesome/free-br
 import { } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
-	name: "Cloud",
+	name: "yka",
 	links: [
 		{
 			title: "About",
@@ -25,7 +25,7 @@ export const navigation = {
 	],
 }
 export const intro = {
-	title: "Hey, I'm Cloud",
+	title: "Hey, I'm yka",
 	description: "Learn about the world through technology.",
 	image: profile.src,
 	buttons: [
@@ -107,14 +107,14 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "Cloud | Computer Engineer | Java | Kotlin developer",
+	title: "yka | Computer Engineer | Java | Kotlin developer",
 	description: "I create websites and applications. I graduated from Chongqing Three Gorges University (NUSTCTGU) in 2018 with a degree in Computer Engineering.",
 	image: profile.src,
 }
 
 export const links = {
 	image: profile.src,
-	title: "@Cloud",
+	title: "@yka",
 	description: "Computer Engineer | Java | Kotlin Developer",
 	cards: [
 		{
