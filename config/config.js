@@ -90,7 +90,7 @@ export const projects = {
 			]
 		},
 		{
-			title: "UrlRandom",
+			title: "timeline-data",
 			description: "一个kotlin的时间轴数据生成工具",
 			icons: [
 				{
